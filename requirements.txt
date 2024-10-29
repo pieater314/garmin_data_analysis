@@ -1,0 +1,1 @@
+# this requirements.txt might be easier to build with a command like "git freeze > requirements.txt"
